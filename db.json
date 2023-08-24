@@ -1,0 +1,95 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "nama": "Zahra",
+            "alamat": "Bogor",
+            "umur": 18,
+            "nohp": "081276456322"
+        },
+        {
+            "id": 2,
+            "nama": "Meita Melani",
+            "alamat": "Depok",
+            "umur": 18,
+            "nohp": "081277668932"
+        },
+        {
+            "id": 3,
+            "nama": "Nasya",
+            "alamat": "Yogyakarta",
+            "umur": 18,
+            "nohp": "086789564366"
+        },
+        {
+            "id": 4,
+            "nama": "Nasya",
+            "alamat": "Yogyakarta",
+            "umur": 18,
+            "nohp": "086789564366"
+        },
+        {
+            "id": 5,
+            "nama": "Nasya",
+            "alamat": "Yogyakarta",
+            "umur": 18,
+            "nohp": "086789564366"
+        },
+        {
+            "id": 6,
+            "nama": "Nasya",
+            "alamat": "Yogyakarta",
+            "umur": 18,
+            "nohp": "086789564366"
+        },
+        {
+            "id": 7,
+            "nama": "Nasya",
+            "alamat": "Yogyakarta",
+            "umur": 18,
+            "nohp": "086789564366"
+        },
+        {
+            "id": 8,
+            "nama": "Nasya",
+            "alamat": "Yogyakarta",
+            "umur": 18,
+            "nohp": "086789564366"
+        },
+        {
+            "id": 9,
+            "nama": "Nasya",
+            "alamat": "Yogyakarta",
+            "umur": 18,
+            "nohp": "086789564366"
+        },
+        {
+            "id": 10,
+            "nama": "Nasya",
+            "alamat": "Yogyakarta",
+            "umur": 18,
+            "nohp": "086789564366"
+        },
+        {
+            "id": 11,
+            "nama": "Nasya",
+            "alamat": "Yogyakarta",
+            "umur": 18,
+            "nohp": "086789564366"
+        },
+        {
+            "id": 12,
+            "nama": "Nasya",
+            "alamat": "Yogyakarta",
+            "umur": 18,
+            "nohp": "086789564366"
+        },
+        {
+            "id": 13,
+            "nama": "Nasya",
+            "alamat": "Yogyakarta",
+            "umur": 18,
+            "nohp": "086789564366"
+        }
+    ]
+}
